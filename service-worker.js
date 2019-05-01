@@ -1,5 +1,3 @@
-// limitations under the License.
-
 var dataCacheName = 'weatherData-v1';
 var cacheName = 'weatherPWA-final-1';
 var filesToCache = [
