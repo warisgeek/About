@@ -4,15 +4,15 @@ var dataCacheName = 'weatherData-v1';
 var cacheName = 'weatherPWA-final-1';
 var filesToCache = [
     '/',
-    '/index.html',
-    '/css/animate.css',
+    'index.html',
+    'css/animate.css',
     'css/icomoon.css',
     'css/bootstrap.css',
     'css/font-awesome.min.css',
     'css/style.css',
     'https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700',
     'https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700',
-    '/images/about.jpg',
+    'images/about.jpg',
     'js/jquery.min.js',
     'js/jquery.easing.1.3.js',
     'js/bootstrap.min.js',
